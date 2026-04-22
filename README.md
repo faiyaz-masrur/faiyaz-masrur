@@ -14,14 +14,7 @@
 
 ## 💡 Domains I Love
 
-<p>
-  <img src="https://img.shields.io/badge/FinTech-0A66C2?style=for-the-badge&logo=paypal&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HealthTech-16A085?style=for-the-badge&logo=mediamarkt&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Enterprise-34495E?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/E--Ticketing-F39C12?style=for-the-badge&logo=bookmyshow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ride--Sharing-2ECC71?style=for-the-badge&logo=uber&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ERP-8E44AD?style=for-the-badge&logo=oracle&logoColor=white"/>
-</p>
+  FinTech | HealthTech | ERP | E-Ticketing | Ride-Sharing
 
 
 ## 🧠 Experience
@@ -33,23 +26,17 @@
 ## ⚙️ Tech Stack
 
 ### 👨‍💻 Languages & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,react,reactnative" />
-</p>
+
+  Java | Spring | TypeScript | React | React-Native | Plsql
+
 
 ### 🧩 Architecture & Backend
-<p>
-  <img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Distributed%20Systems-2C3E50?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/REST%20API-27AE60?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/WebSocket-2980B9?style=for-the-badge"/>
-</p>
+
+  Microservices | Distributed-Systems | REST-API | WebSocket
 
 ### ☁️ DevOps & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions" />
-</p>
 
+  Docker | Kubernetes | VPS | Github CI/CD
 
 ## 📊 GitHub Stats
 
